@@ -1,0 +1,24 @@
+.about__box {
+  height: 1240px;
+}
+.about__box .box_content {
+  height: 1417px;
+}
+.about__box .box_content .content .gastric_content .gastric__title {
+  font-family: "Cormorant";
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  color: #7f2941;
+  margin-bottom: 30px;
+}
+.about__box .box_content .content .gastric_content .gastirc_p {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #333333;
+  margin-bottom: 30px;
+}/*# sourceMappingURL=gastric.css.map */

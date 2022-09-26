@@ -1,0 +1,16 @@
+.about__box {
+  height: 1150px;
+}
+.about__box .box_content {
+  top: 308px;
+  height: 1223px;
+}
+
+.hospital p {
+  margin-top: 30px;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #59595c;
+}/*# sourceMappingURL=hospital.css.map */

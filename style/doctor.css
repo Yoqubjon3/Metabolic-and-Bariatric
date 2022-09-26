@@ -1,0 +1,21 @@
+.about__box {
+  height: 2250px;
+}
+.about__box .box_content {
+  top: 308px;
+  height: 2362px;
+}
+
+.team__title {
+  font-family: "Roboto Serif";
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 50px;
+  color: #7f2941;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.mt {
+  margin-top: 20px;
+}/*# sourceMappingURL=doctor.css.map */

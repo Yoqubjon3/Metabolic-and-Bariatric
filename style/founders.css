@@ -1,0 +1,63 @@
+.about__box {
+  height: 2000px;
+}
+.about__box .box_content {
+  top: 308px;
+  height: 2102px;
+}
+
+.founders .button_doctors {
+  margin-bottom: 30px;
+  display: flex;
+}
+.founders .button_doctors a {
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.founders .button_doctors .not-active {
+  font-family: "Roboto Serif";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  color: #ffffff;
+  background: #aec5ce;
+}
+.founders .button_doctors .active {
+  font-family: "Roboto Serif";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  color: #aec5ce;
+  background: #7f2941;
+}
+.founders .param_1 {
+  font-family: "Roboto Serif";
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 50px;
+  color: #7f2941;
+  margin-bottom: 30px;
+}
+.founders h3 {
+  margin-top: 30px;
+  margin-bottom: 35px;
+  color: #59595c;
+  font-size: 45px;
+  font-weight: 700;
+  font-family: "Roboto";
+}
+.founders .param_2 {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 28px;
+  color: #59595c;
+}
+.founders .one {
+  margin-bottom: 80px;
+}
+.founders .two {
+  margin-bottom: 30px;
+}/*# sourceMappingURL=founders.css.map */
